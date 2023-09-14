@@ -1,4 +1,4 @@
-# is-lab
+# Is-lab
 
 Folder Description: AES Algorithm and SHA-512 Algorithm Code
 
